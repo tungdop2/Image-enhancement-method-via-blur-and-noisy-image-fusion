@@ -19,12 +19,13 @@ This repository contains code for the paper: [Paper](https://www.researchgate.ne
 
 *Image enhancement result: short- and long-exposed images (upper row), the photometrically calibrated short-exposed image (bottom left), and the result (bottom right).*
 
-# Annotation
-The results in this code is not exactly the same as the paper, based on the polynomial fitting and the noise varience estimation.
+# Conclusion
+The results in this code is not exactly the same as the paper, because of our lack of knowledge in image processing. There are some problems:
+1. 
 
 # Contributors
 * Duong Quang Tung - 19020654
-* Trang Minh Ngoc
-* Le Thi My Duyen
+* Trang Minh Ngoc - 19020588
+* Le Thi My Duyen - 19020535
   
 
