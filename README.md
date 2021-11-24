@@ -1,5 +1,5 @@
 # Introduction
-This repository contains code for the paper: [Paper](https://www.researchgate.net/publication/224114693_Image_enhancement_method_via_blur_and_noisy_image_fusion\n)
+This repository contains code for this [paper](https://www.researchgate.net/publication/224114693_Image_enhancement_method_via_blur_and_noisy_image_fusion\n)
 
 # Usage
 1. Clone this repository
@@ -20,9 +20,10 @@ This repository contains code for the paper: [Paper](https://www.researchgate.ne
 *Image enhancement result: short- and long-exposed images (upper row), the photometrically calibrated short-exposed image (bottom left), and the result (bottom right).*
 
 # Conclusion
-The results in this code is not exactly the same as the paper, because of our lack of knowledge in image processing. There are some problems:
-1. 
-
+The results in this code is not exactly the same as the paper, because of our lack of knowledge in image processing. There are some problems, such as:
+1. In photometric calibration, we use the linear regression for polynomial to fit the data, which is not the best way, because it is sensitive to the outliers. 
+2. In fusion, we estimate the noise variance by a simple function, not the way in the paper.
+3. Our result on the demo image maybe better than the original, but in experiments, the results are not always good. It usually work well when long-exposed image is brighter than short-exposed image a lot.
 # Contributors
 * Duong Quang Tung - 19020654
 * Trang Minh Ngoc - 19020588
