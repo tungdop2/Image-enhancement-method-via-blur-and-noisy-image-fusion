@@ -15,9 +15,11 @@ This repository contains code for this [paper](https://www.researchgate.net/publ
 
 # Demo
 <img src="demo_short_exposed.jpg" width="400"/> <img src="demo_long_exposed.jpg" width="400"/> 
-<img src="output/pced_demo.jpg" width="400"/> <img src="output/fused_demo.jpg" width="400"/> 
+<img src="output/pced_demo.jpg" width="400"/> <img src="output/fused_demo.jpg" width="400"/>
 
-*Image enhancement result: short- and long-exposed images (upper row), the photometrically calibrated short-exposed image (bottom left), and the result (bottom right).*
+<img src="output/comparagram__blue.jpg" width="300"/> <img src="output/comparagram__red.jpg" width="300"/> <img src="output/comparagram__green.jpg" width="300"/>   
+
+*Image enhancement result: short and long-exposed images (upper row), the photometrically calibrated short-exposed image (second row left), and the result (second row right), comparagram for 3 color channels (bottom row)*
 
 # Conclusion
 The results in this code is not exactly the same as the paper, because of our lack of knowledge in image processing. There are some problems, such as:
