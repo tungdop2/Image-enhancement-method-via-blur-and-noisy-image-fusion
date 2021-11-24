@@ -14,8 +14,8 @@ This repository contains code for the paper: [Paper](https://www.researchgate.ne
 5. The results are saved in `output` folder as  `pced_<name>.jpg`, `fused_<name>.jpg` and 3 `coparagram_<color>.jpg` correspond to photometric calibrated, fusion and 3 coparagrams for each channel in rgb color space respectively.
 
 # Demo
-<img src="demo_short_exposed.jpg" width="425"/> <img src="demo_long_exposed.jpg" width="425"/> 
-<img src="output/pced_demo.jpg" width="425"/> <img src="output/fused_demo.jpg" width="425"/> 
+<img src="demo_short_exposed.jpg" width="400"/> <img src="demo_long_exposed.jpg" width="400"/> 
+<img src="output/pced_demo.jpg" width="400"/> <img src="output/fused_demo.jpg" width="400"/> 
 
 *Image enhancement result: short- and long-exposed images (upper row), the photometrically calibrated short-exposed image (bottom left), and the result (bottom right).*
 
