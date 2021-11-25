@@ -28,7 +28,7 @@ The results in this code is not exactly the same as the paper, because of our la
 3. Our result on the demo image maybe better than the original, but in experiments, the results are not always good. It usually work well when long-exposed image is brighter than short-exposed image a lot.
 # Contributors
 * Duong Quang Tung - 19020654
-* Trang Minh Ngoc - 19020588
+* Tran Minh Ngoc - 19020588
 * Le Thi My Duyen - 19020535
   
 
