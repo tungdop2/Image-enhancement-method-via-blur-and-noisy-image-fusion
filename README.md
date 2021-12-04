@@ -19,7 +19,7 @@ This repository contains our code for this [paper](https://www.researchgate.net/
 
 <img src="output/comparagram__blue.jpg" width="300"/> <img src="output/comparagram__red.jpg" width="300"/> <img src="output/comparagram__green.jpg" width="300"/>   
 
-*Image enhancement result: short and long-exposed images (upper row), the photometrically calibrated short-exposed image (second row left), and the result (second row right), comparagram for 3 color channels (bottom row)*
+*Image enhancement result: short and long-exposed images (upper row), the photometrically calibrated short-exposed image (second row left), the result (second row right), and comparagrams for 3 color channels (bottom row)*
 
 # Conclusion
 The results in this code is not exactly the same as the paper, because of our lack of knowledge in image processing. There are some problems, such as:
