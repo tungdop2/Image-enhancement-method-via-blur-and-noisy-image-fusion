@@ -1,5 +1,5 @@
 # Introduction
-This repository contains code for this [paper](https://www.researchgate.net/publication/224114693_Image_enhancement_method_via_blur_and_noisy_image_fusion\n)
+This repository contains our code for this [paper](https://www.researchgate.net/publication/224114693_Image_enhancement_method_via_blur_and_noisy_image_fusion\n)
 
 # Usage
 1. Clone this repository
